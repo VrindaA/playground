@@ -1,6 +1,3 @@
-/*
- * Copyright (c) Robert Bosch GmbH. All rights reserved.
- */
 package com.hello.world;
 
 
